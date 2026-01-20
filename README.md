@@ -37,4 +37,4 @@
 - **Added Features by Arenslien**: (Game Over / Player Movement Event 버그 수정)
 
 ---
-© 2026 **Arenslien**. All rights reserved.
+© 2026 **Arenslien**.
