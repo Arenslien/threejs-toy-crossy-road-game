@@ -1,4 +1,6 @@
-# Toy Crossy Road Game
+# Three.js Toy Game: Crossy Road
+
+![Game Preview](https://github.com/Arenslien/threejs-toy-crossy-road-game/issues/2#issue-3833389543)
 
 본 프로젝트는 **Three.js** 라이브러리를 활용하여 'Crossy Road' 게임을 구현해 본 **기술 실습용 토이 프로젝트(Clone Coding)**입니다.
 
