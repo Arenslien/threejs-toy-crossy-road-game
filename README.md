@@ -1,6 +1,9 @@
 # Three.js Toy Game: Crossy Road
 
-![Game Preview](https://private-user-images.githubusercontent.com/46517668/538000261-81ecce1d-e4cd-497a-bd24-d7b7367f656b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg5MTA0NjQsIm5iZiI6MTc2ODkxMDE2NCwicGF0aCI6Ii80NjUxNzY2OC81MzgwMDAyNjEtODFlY2NlMWQtZTRjZC00OTdhLWJkMjQtZDdiNzM2N2Y2NTZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDExNTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4M2FiOTc1OTc0ODAzNTA4Zjg1NmVmMzcwMzU0ZmEyNmM3MzcyYjI3MmFmNzJkOTJhNGFkZjMwMTE1YTE2MzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.naaD9AVhGy8Wloa8YKiXhryePb99QG4bWyzDsj1N5-8)
+<div align="center">
+  <img width="1334" alt="Game Play Screenshot" src="https://github.com/user-attachments/assets/69c89506-db94-4b3d-bd4f-828141d021e0">
+  <p><em>실제 게임 플레이 화면</em></p>
+</div>
 
 본 프로젝트는 **Three.js** 라이브러리를 활용하여 'Crossy Road' 게임을 구현해 본 **기술 실습용 토이 프로젝트(Clone Coding)** 입니다.
 
