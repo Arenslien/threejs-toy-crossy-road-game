@@ -16,7 +16,7 @@
 
 ---
 
-## Key Learning Points
+## Learning Points
 이 프로젝트를 통해 다음과 같은 기술적 역량을 탐구하였습니다.
 
 1. **3D Scene 구성**: Scene, Camera, Light의 상호작용 이해 및 설정
@@ -25,13 +25,13 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - **`main` Branch**: 실제 서비스 배포를 위한 최적화된 빌드 파일들이 포함되어 있습니다.
 - **`develop` Branch**: 전체 소스 코드와 에셋, 개발 환경 설정 파일이 포함되어 있습니다. (`/project-file` 디렉토리 내 위치)
 
 ---
 
-## ✍️ Credits & Reference
+## Credits & Reference
 - 본 프로젝트는 Three.js 학습을 위한 클론 코딩 결과물입니다.
 - **Reference**: [Hunor Márton Borbély's Javascript Game Tutorial](https://javascriptgametutorials.com/tutorials/three-js/crossy-road)
 - **Added Features by Arenslien**: (Game Over / Player Movement Event 버그 수정)
